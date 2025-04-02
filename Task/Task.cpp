@@ -8,8 +8,7 @@ int main()
     int s;
     int p;
     cin >> p;
-    s = pow(
-        p / 4, 2);
+    s = pow(p / 4, 2);
     cout << s << endl;
     return 0;
 }
